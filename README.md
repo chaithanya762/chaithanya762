@@ -24,7 +24,7 @@
 > Creative enough to build.
 > Persistent enough to keep improving.**
 
-I'm a Computer Science graduate currently working as an **Instructor at VVIET**, while continuously growing my skills in **software development, machine learning and modern web technologies**.
+I'm a B.E Computer Science graduate & a rank holder of 2024 graduating batch from VVCE , Mysuru , currently working as an **Instructor at VVIET**, while continuously growing my skills in **software development, machine learning and modern web technologies**.
 
 I enjoy turning ideas into useful software, experimenting with new technologies, and solving problems that make me think differently.
 
