@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, world! 🌍
 
-<!--
-**chaithanya762/chaithanya762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chaithanya — a developer with a builder mindset and a curious soul.
 
-Here are some ideas to get you started:
+I love:
+- crafting clean, useful products
+- exploring new technologies
+- solving problems that matter
+- turning ideas into interactive experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My mantra
+"Create with curiosity. Build with purpose. Improve every day."
+
+### Tech I enjoy
+JavaScript • React • Node.js • Git • UI/UX • Problem Solving
+
