@@ -30,14 +30,12 @@
 
 ---
 
-# WHO AM I?
+# Hey, I'm **Chaithanya S.** 👋
 
 <table>
 <tr>
 
 <td width="60%" valign="top">
-
-## Hey, I'm **Chaithanya S.** 👋
 
 I'm a **Computer Science graduate and developer** who enjoys turning ideas into software, experimenting with technology, and solving problems that make me think.
 
