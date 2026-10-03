@@ -342,25 +342,6 @@ Progress is built one iteration at a time.
 
 ---
 
-# GITHUB ACTIVITY
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaithanya762&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=9CA3AF" height="175"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanya762&hide_border=true&theme=transparent&ring=8B5CF6&fire=F59E0B&currStreakLabel=A78BFA" height="175"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya762&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=9CA3AF" />
-
-</p>
-
-
----
-
 # LET'S CONNECT
 
 <p align="center">
