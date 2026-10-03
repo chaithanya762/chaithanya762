@@ -1,67 +1,106 @@
-<!-- HERO -->
+<!-- ========================================================= -->
+
+<!--                     CHAITHANYA S                           -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=CHAITHANYA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F0C29,50:302B63,100:24243E&text=CHAITHANYA%20S&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20ML%20Explorer%20%7C%20Builder&descAlignY=61&descSize=19&descColor=E6E6FF" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+ML+Explorer;Instructor+%7C+Builder+%7C+Curious+Mind;Turning+Ideas+into+Interactive+Experiences;Learning+%E2%86%92+Building+%E2%86%92+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Turning+ideas+into+things+people+can+use.;Building+software+with+curiosity+%26+purpose.;Exploring+Machine+Learning+%26+Intelligent+Systems.;Learn.+Build.+Break.+Understand.+Improve." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/chaithanya762">
-    <img src="https://img.shields.io/badge/GitHub-chaithanya762-181717?style=for-the-badge&logo=github"/>
-  </a>
+
+<a href="https://github.com/chaithanya762">
+<img src="https://img.shields.io/badge/GitHub-Chaithanya_S-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chaithanya-s-88b213225">
+<img src="https://img.shields.io/badge/LinkedIn-Chaithanya_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=chaithanya762&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+
 </p>
+
+<br>
 
 ---
 
-# 👋 Hey, I'm Chaithanya
+# `01` — WHO AM I?
 
-### `Software Developer • ML Explorer • Instructor • Builder`
+<table>
+<tr>
 
-> **Curious enough to learn.
-> Creative enough to build.
-> Persistent enough to keep improving.**
+<td width="60%" valign="top">
 
-I'm a B.E Computer Science graduate & a rank holder of 2024 graduating batch from VVCE , Mysuru , currently working as an **Instructor at VVIET**, while continuously growing my skills in **software development, machine learning and modern web technologies**.
+## Hey, I'm **Chaithanya S.** 👋
 
-I enjoy turning ideas into useful software, experimenting with new technologies, and solving problems that make me think differently.
+I'm a **Computer Science graduate and developer** who enjoys turning ideas into software, experimenting with technology, and solving problems that make me think.
+
+My interests live at the intersection of:
+
+### **Software Development × Machine Learning × Product Thinking**
+
+I enjoy the entire journey:
+
+`Idea → Problem → Code → Experiment → Product`
+
+I don't want to simply learn technologies.
+
+### **I want to build things with them.**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+<br><br>
+
+`BUILD > TALK`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌌 My Developer Universe
-
-<p align="center">
-
-|    🤖 AI / ML    | 💻 Development |    🎨 UI / UX   | 🧠 Problem Solving |
-| :--------------: | :------------: | :-------------: | :----------------: |
-| Machine Learning |      Java      |      React      |         DSA        |
-|   Deep Learning  |   JavaScript   |  Interactive UI |     Algorithms     |
-|        NLP       |     Node.js    |  Product Design |  Logical Thinking  |
-|       LLMs       |     Python     | User Experience |      Debugging     |
-
-</p>
-
----
-
-## 🧠 About Me
+# `02` — THE DEVELOPER BEHIND THE CODE
 
 ```javascript
 const chaithanya = {
-    role: "Instructor @ VVIT",
-
-    background: "Computer Science",
+    name: "Chaithanya S",
+    field: "Computer Science",
 
     interests: [
         "Machine Learning",
         "Software Development",
         "Web Development",
-        "UI/UX",
+        "UI / UX",
         "Problem Solving"
     ],
 
-    mindset: "Learn → Build → Improve",
+    currentlyExploring: [
+        "DSA",
+        "Backend Development",
+        "Machine Learning",
+        "System Design"
+    ],
+
+    buildingWith: [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js"
+    ],
+
+    mindset: "Curious • Practical • Always Learning",
 
     philosophy: "Build things worth using."
 };
@@ -69,158 +108,235 @@ const chaithanya = {
 
 ---
 
-# 🤖 AI & Machine Learning
+# `03` — MY TECH UNIVERSE
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas" />
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker&perline=7" />
+
 </p>
 
-I'm fascinated by the intersection of **data, algorithms and intelligent systems**.
+<br>
 
-### Currently exploring
+### 🤖 AI / MACHINE LEARNING
 
-`Machine Learning` • `Deep Learning` • `NLP` • `LLMs`
-`Data Preprocessing` • `Model Training` • `Fine-Tuning`
+<p align="center">
 
-### My ML pipeline
+`Machine Learning`   `Deep Learning`   `NLP`
+
+`LLMs`   `Data Preprocessing`   `Model Training`
+
+`Fine-Tuning`   `AI Applications`
+
+</p>
+
+### ⚡ SOFTWARE DEVELOPMENT
+
+<p align="center">
+
+`Java`   `Python`   `JavaScript`   `C++`
+
+`React`   `Node.js`   `Express`   `REST APIs`
+
+</p>
+
+### 🗄️ DATA & TOOLS
+
+<p align="center">
+
+`MySQL`   `MongoDB`   `Git`   `GitHub`   `Docker`
+
+</p>
+
+---
+
+# `04` — WHERE SOFTWARE MEETS ML
+
+<p align="center">
+
+```text
+                         💡 IDEA
+                           │
+                           ▼
+                     🔍 PROBLEM
+                           │
+                           ▼
+                ┌──────────┴──────────┐
+                │                     │
+                ▼                     ▼
+          💻 SOFTWARE              📊 DATA
+                │                     │
+                ▼                     ▼
+          ⚙️ APPLICATION           🧠 ML MODEL
+                │                     │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                    🚀 REAL PRODUCT
+```
+
+</p>
+
+> **I'm interested in the space where intelligent systems become useful software.**
+
+---
+
+# `05` — MACHINE LEARNING
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="380"/>
+
+</p>
+
+I'm fascinated by what happens when **data + algorithms + software** come together.
+
+### 🔬 Exploring
+
+| Area                | What interests me                         |
+| ------------------- | ----------------------------------------- |
+| 🧠 Machine Learning | Learning from data                        |
+| 🤖 Deep Learning    | Neural networks & representation learning |
+| 💬 NLP              | Understanding language with machines      |
+| 🧩 LLMs             | Large language models & applications      |
+| 📊 Data             | Preprocessing & experimentation           |
+| ⚙️ Training         | Model experimentation                     |
+| 🔧 Fine-Tuning      | Adapting models to specific tasks         |
+| 🚀 AI Applications  | Turning models into useful software       |
+
+### My ML Pipeline
 
 ```text
         📊 DATA
-          ↓
-    🧹 PREPROCESSING
-          ↓
-     🧩 FEATURES
-          ↓
-      🧠 MODEL
-          ↓
-     ⚙️ TRAINING
-          ↓
-      📈 EVALUATION
-          ↓
-      🔧 FINE-TUNING
-          ↓
-       🚀 PRODUCT
+           ↓
+    🧹 PREPROCESS
+           ↓
+      🔎 EXPLORE
+           ↓
+      🧩 FEATURES
+           ↓
+       🧠 MODEL
+           ↓
+      ⚙️ TRAINING
+           ↓
+      📈 EVALUATE
+           ↓
+      🔧 IMPROVE
+           ↓
+       🚀 DEPLOY
 ```
 
 ---
 
-# 💻 Tech Stack
+# `06` — CURRENTLY LEVELING UP
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker" />
+
+<img src="https://img.shields.io/badge/DSA-∞-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-EXPLORING-6366F1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-EXPANDING-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-LEARNING-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-DEEP_DIVING-F59E0B?style=for-the-badge"/>
+
 </p>
+
+### My Current Loop
+
+```text
+       ┌─────────────┐
+       │   🧠 LEARN  │
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │  💻 BUILD   │
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │   💥 BREAK  │
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │  🔍 DEBUG   │
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │ 💡 UNDERSTAND│
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │  🚀 IMPROVE │
+       └──────┬──────┘
+              │
+              └───────────────↺
+```
 
 ---
 
-# 🚀 What I Love Building
+# `07` — HOW I THINK
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 Intelligent Systems
+<td align="center" width="33%">
 
-Exploring how ML and AI can become useful parts of real applications.
+## 🧠
 
-</td>
+### STAY CURIOUS
 
-<td width="50%">
-
-### 💻 Software Products
-
-Building applications that solve practical problems instead of existing only as demos.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎨 Interactive Experiences
-
-I enjoy making interfaces that feel clean, intuitive and enjoyable.
+There's always another layer to understand.
 
 </td>
 
-<td>
+<td align="center" width="33%">
 
-### 🧩 Problem Solving
+## 🛠️
 
-Taking complicated problems and breaking them into smaller pieces.
+### BUILD THINGS
+
+Ideas become real when you turn them into something usable.
 
 </td>
+
+<td align="center" width="33%">
+
+## 🔁
+
+### KEEP IMPROVING
+
+Progress is built one iteration at a time.
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🤖 ML Experiments
-
-A growing collection of experiments exploring:
-
-`Machine Learning` `Deep Learning` `NLP` `LLMs` `Data`
-
-> **Some projects start with a problem.
-> Some start with curiosity.
-> The fun begins when they become code.**
-
----
-
-# 🎓 Teaching + Technology
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Instructor-VVIT-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Science-Developer-00C9FF?style=for-the-badge"/>
-</p>
-
-Working as an instructor has given me another perspective on technology.
-
-> **If you can explain something simply, you probably understand it deeply.**
-
-Teaching keeps me learning, experimenting and finding better ways to understand technology.
-
----
-
-# 📚 Currently Leveling Up
+# `08` — MY DEVELOPER PHILOSOPHY
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/DSA-Learning-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-00C9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Developing-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-Exploring-00C9FF?style=for-the-badge"/>
+### **Learn something.**
 
-</p>
+### ↓
 
----
+### **Build something.**
 
-# 🔄 My Developer Loop
+### ↓
 
-<p align="center">
+### **Break something.**
 
-### 🧠 LEARN
+### ↓
 
-↓
+### **Understand why.**
 
-### 💻 BUILD
+### ↓
 
-↓
-
-### 💥 BREAK
-
-↓
-
-### 🔍 DEBUG
-
-↓
-
-### 💡 UNDERSTAND
-
-↓
-
-### 🚀 IMPROVE
-
-↺
+### **Make it better.**
 
 </p>
 
@@ -228,44 +344,72 @@ Teaching keeps me learning, experimenting and finding better ways to understand 
 
 ---
 
-# 📊 GitHub Analytics
+# `09` — GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaithanya762&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanya762&hide_border=true&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=chaithanya762&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=9CA3AF" height="175"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanya762&hide_border=true&theme=transparent&ring=8B5CF6&fire=F59E0B&currStreakLabel=A78BFA" height="175"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya762&layout=compact&hide_border=true&theme=transparent" />
-</p>
 
----
-
-# 🐍 My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaithanya762/chaithanya762/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
-
----
-
-# 💭 My Mantra
-
-<p align="center">
-
-## **"Create with curiosity. Build with purpose. Improve every day."**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya762&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=9CA3AF" />
 
 </p>
 
 ---
 
+# `10` — CONTRIBUTION MATRIX
+
 <p align="center">
 
-### 🤖 Code   •   🧠 Learn   •   🎓 Teach   •   🚀 Build
+<img src="https://raw.githubusercontent.com/chaithanya762/chaithanya762/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</p>
+
+---
+
+# `11` — LET'S CONNECT
+
+<p align="center">
+
+<a href="https://github.com/chaithanya762">
+<img src="https://img.shields.io/badge/GitHub-Chaithanya_S-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chaithanya-s-88b213225">
+<img src="https://img.shields.io/badge/LinkedIn-Chaithanya_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C63FF&height=120&section=footer"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chaithanya-s-88b213225">
+<img src="https://img.shields.io/badge/Let's%20Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
+---
+
+<br>
+
+<p align="center">
+
+# ✦ CREATE WITH CURIOSITY. ✦
+
+# **BUILD WITH PURPOSE.**
+
+# ✦ IMPROVE EVERY DAY. ✦
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243E,50:302B63,100:0F0C29&section=footer" width="100%"/>
+
+</p>
