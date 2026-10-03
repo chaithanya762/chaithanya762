@@ -30,7 +30,7 @@
 
 ---
 
-# `01` — WHO AM I?
+# WHO AM I?
 
 <table>
 <tr>
@@ -70,7 +70,7 @@ I don't want to simply learn technologies.
 
 ---
 
-# `02` — THE DEVELOPER BEHIND THE CODE
+# THE DEVELOPER BEHIND THE CODE
 
 ```javascript
 const chaithanya = {
@@ -108,7 +108,7 @@ const chaithanya = {
 
 ---
 
-# `03` — MY TECH UNIVERSE
+# MY TECH UNIVERSE
 
 <p align="center">
 
@@ -150,7 +150,7 @@ const chaithanya = {
 
 ---
 
-# `04` — WHERE SOFTWARE MEETS ML
+# WHERE SOFTWARE MEETS ML
 
 <p align="center">
 
@@ -181,7 +181,7 @@ const chaithanya = {
 
 ---
 
-# `05` — MACHINE LEARNING
+# MACHINE LEARNING
 
 <p align="center">
 
@@ -228,7 +228,7 @@ I'm fascinated by what happens when **data + algorithms + software** come togeth
 
 ---
 
-# `06` — CURRENTLY LEVELING UP
+# CURRENTLY LEVELING UP
 
 <p align="center">
 
@@ -276,7 +276,7 @@ I'm fascinated by what happens when **data + algorithms + software** come togeth
 
 ---
 
-# `07` — HOW I THINK
+# HOW I THINK
 
 <table>
 <tr>
@@ -316,7 +316,7 @@ Progress is built one iteration at a time.
 
 ---
 
-# `08` — MY DEVELOPER PHILOSOPHY
+# MY DEVELOPER PHILOSOPHY
 
 <p align="center">
 
@@ -344,7 +344,7 @@ Progress is built one iteration at a time.
 
 ---
 
-# `09` — GITHUB ACTIVITY
+# GITHUB ACTIVITY
 
 <p align="center">
 
@@ -360,19 +360,10 @@ Progress is built one iteration at a time.
 
 </p>
 
----
-
-# `10` — CONTRIBUTION MATRIX
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/chaithanya762/chaithanya762/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</p>
 
 ---
 
-# `11` — LET'S CONNECT
+# LET'S CONNECT
 
 <p align="center">
 
